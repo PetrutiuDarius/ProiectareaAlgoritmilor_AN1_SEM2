@@ -1,0 +1,4 @@
+Algorimele mele functioneza ca in definite:
+
+Cel Dijkstra nu functioneaza pentru graful cu muchii de cost negativ (intra in bucla infinita), iar cel Bellman-Ford il calculeaza corect.
+Totusi, nu sunt 100% sigur ca sunt implementate chiar cum trebuie, desi ele functioneaza foarte bine in orice situatie.

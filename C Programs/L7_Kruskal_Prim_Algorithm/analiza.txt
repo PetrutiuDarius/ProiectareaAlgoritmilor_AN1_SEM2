@@ -1,0 +1,4 @@
+Algoritmul Kruskal se bazeaza pe sortarea muchiilor în ordine crescătoare a costului, aspect evident în bucla dublă care parcurge muchiile și le sortează. Acest lucru sugerează o atenție deosebită acordată prioritizării costului în alegerea muchiilor pentru arborele minim.
+Pe de altă parte, algoritmul Prim incepe de la un nod de pornire și adauga în mod gradual muchiile în arborele minim. Acest lucru este evident în modul în care se explorează prioritățile pentru fiecare nod, selectând cea mai ieftină muchie către un nod nevizitat, după cum sugerează parcurgerea listei de priorități.
+Beneficiile și problematicile:
+Implementarea algoritmului Kruskal este notabilă pentru simplitatea sa și eficiența în tratarea grafurilor dense. Pe de altă parte, algoritmul Prim, deși poate fi mai eficient pentru grafuri rare sau mici, poate necesita o implementare mai elaborată și poate fi mai sensibil la selecția nodului de pornire.

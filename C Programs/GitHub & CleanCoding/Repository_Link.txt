@@ -1,0 +1,5 @@
+URL: https://github.com/PetrutiuDarius/CleanCoding-GIT-PA/tree/main
+
+HTTPS for clone: https://github.com/PetrutiuDarius/CleanCoding-GIT-PA.git
+
+SSH for clone: git@github.com:PetrutiuDarius/CleanCoding-GIT-PA.git

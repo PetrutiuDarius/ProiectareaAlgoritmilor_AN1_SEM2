@@ -1,0 +1,6 @@
+Exemplu de recursivitate pentru un copil de 5 ani.
+
+    Primul exemplu care mi-a venit in minte este un videoclip in care se creeaza un tablou folosind piese de domino.
+Fiecare piesa o impinge pe cealalta si astfel se creeaza imaginea, iar exemplul este unul grafic si foarte specific.
+    Totusi, un al doilea exemplu ar fi cresterea unui copac, urmand de la radacina pana in varful unei frunze este o
+singura cale care este formata din ramuri peste care nu poti sa treci, iar una fara cealalta nu ar fi existat.
