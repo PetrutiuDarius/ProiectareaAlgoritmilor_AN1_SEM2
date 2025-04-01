@@ -1,0 +1,22 @@
+Algoritm pentru trezirea de dimineata
+
+citeste ora_culcare (numar natural)
+citeste nr_alarme (numar natuaral)
+citeste epuizare (numar natural)
+
+nr_alarme <- 0
+
+daca ora_culcare > 24
+	scrie "Ora nu e corecta"
+daca epuizare > 10
+	scrie "Nu mai pune alarma"
+
+daca  ora_culcare >=1 si ora_culcare <=12 atunci
+	nr_alarme <- 4
+altfel
+	nr_alarme <- 2
+
+daca epuizare > 8 atunci
+	nr_alarme <- 4
+
+scrie nr_alarme
